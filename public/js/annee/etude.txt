@@ -1,0 +1,13 @@
+
+attribut
+	- _id
+	- annee
+	- membre
+
+
+
+action
+	- ajouter
+	- modifier
+	- supprimer
+	- choix de l'annee en cour

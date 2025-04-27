@@ -1,0 +1,13 @@
+
+attribut
+	- _id
+	- nom et prenom
+
+
+
+action
+	- ajouter
+	- modifier
+	- supprimer
+	- historique de tontine
+	- 
